@@ -12,5 +12,3 @@ for i in range(3):
             print("You Win!")
         else:
             print("You Lose!")
-
-           
